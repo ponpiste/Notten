@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Notten
+
+  Created by Sacha Bartholmé on 4/10/16.
+  Copyright © 2016 Sacha Bartholmé. All rights reserved.
+*/
+
+"marks" = "Notes";
+"reset" =  "Réinitialiser";
+"cancel" = "Annuler";
+"coefficient" = "Coefficient";
+"main subject" = "Branche fondamentale";
+"yes" = "Oui";
+"no" = "Non";
+"no need" = "Pas besoin";
+"success" = "Année réussie";
+"stay down" = "Redouble";
+"retake exam" = "Rattrapage";
+"1. term" = "1. Trimestre";
+"2. term" = "2. Trimestre";
+"3. term" = "3. Trimestre";
+"term" = "Trimestre";
+"schoolyear" = "Année";
+"no class" = "Aucune classe";
+"ponderation" = "Pondération";
+"trick" = "Petite astuce";
+"longPress" = "Vous pouvez ajouter des notes plus rapidement en restant longtemps appuyé sur le nom d'une matière.";
+"marks needed" = "Points nécessaires";
+"marks needed" = "Marks needed";
+"median" = "Médiane";
+"median info" = "En statistiques la médiane est la valeur qui permet de partager une série numérique ordonnée en deux parties de même nombre d'éléments.";
+"variance" = "Variance";
+"variance info" = "En statistique et en théorie des probabilités, la variance est une mesure servant à caractériser la dispersion d'un échantillon.\n\nUne variance de zéro signale que toutes les valeurs sont identiques. Une petite variance est signe que les valeurs sont proches les unes des autres alors qu'une variance élevée est signe que celles-ci sont très écartées.";
+"standard deviation" = "Écart type";
+"standard deviation info" = "L'écart type est une notion mathématique qui mesure la dispersion de données. Il est défini comme la racine carrée de la variance, ou de manière équivalente comme la moyenne quadratique des écarts par rapport à la moyenne.";
+"required for" = "Requis pour avoir dans cette matière...";
+"in term" = "%@ au trimestre";
+"in semester" = "%@ au semestre";
+"in exam" = "%@ à l'examen";
+"in year" = "%@ à l'année";
+"in test" = "%@ au devoir";
+"required" = "Minimum syndical";
+"required year info" = "Entrez la moyenne annuelle (sur 60) que vous voulez obtenir dans cette matière. Vous saurez la moyenne trimestrielle minimale nécessaire.";
+"required term info" = "Entrez la moyenne trimestrielle (sur 60) que vous voulez obtenir dans cette matière. Vous saurez la note minimale requise dans le prochain devoir.";
+"required combined info" = "Entrez la moyenne (sur 60) que vous voulez obtenir dans cette branche combinée. Vous saurez la moyenne minimale nécessaire dans cette branche.";
+"influence header" = "Influence sur moyenne générale";
+"influence" = "Influence";
+"influence info" = "Entrez un nombre de points et voyez de combien les points dans cette matière changent votre moyenne générale trimestrielle.";
+"point" = "%@ point";
+"points" = "%@ points";
+"android message" = "L'application est désormais également disponible pour Android";
+"1. semester" = "1. Semestre";
+"2. semester" = "2. Semestre";
+"semester" = "Semestre";
+"exam" = "Examen";
+"none" = "Aucune";
+"admitted" = "Admis";
+"adjournment" = "Ajournement";
+"refused" = "Refusé";
+"needed for" = "Requis pour %@";
+"Other" = "Autre";
+"technique message" = "L'application est désormais aussi disponible pour l'enseignement secondaire technique";
+"facebook message" = "Likez notre page facebook si l'application vous plaît!";
+

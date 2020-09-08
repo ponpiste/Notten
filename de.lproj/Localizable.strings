@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Notten
+
+  Created by Sacha Bartholmé on 4/10/16.
+  Copyright © 2016 Sacha Bartholmé. All rights reserved.
+*/
+
+"marks" = "Notten";
+"reset" =  "Zerécksetzen";
+"cancel" = "Ofbriechen";
+"coefficient" = "Koeffizient";
+"main subject" = "Haaptfach";
+"yes" = "Jo";
+"no" = "Nee";
+"no need" = "Muss net";
+"success" = "Joer gepackt";
+"stay down" = "Fällt duerch";
+"retake exam" = "Noexamen";
+"1. term" = "1. Trimester";
+"2. term" = "2. Trimester";
+"3. term" = "3. Trimester";
+"term" = "Trimester";
+"schoolyear" = "Joer";
+"no class" = "Keng Klass";
+"ponderation" = "Ponderatioun";
+"trick" = "Klengen Tipp";
+"longPress" = "Dier kennt Notte méi schnell aginn andeems Dier laang op de Numm vun engem Fach gedréckt haalt.";
+"marks needed" = "Néideg Punkten";
+"median" = "Médiane";
+"median info" = "Der Median oder Zentralwert ist ein Mittelwert für Verteilungen in der Statistik. Der Median einer Auflistung von Zahlenwerten ist der Wert, der an der mittleren (zentralen) Stelle steht, wenn man die Werte der Größe nach sortiert.";
+"variance" = "Varianz";
+"variance info" = "Die Varianz ist ein Streuungsmaß, welches die Verteilung von Werten um den Mittelwert kennzeichnet. Sie ist das Quadrat der Standardabweichung. Berechnet wird die Varianz, indem die Summe der quadrierten Abweichungen aller Messwerte vom arithmetischen Mittel durch die Anzahl der Messwerte dividiert wird.";
+"standard deviation" = "Écart type";
+"standard deviation info" = "Die Standardabweichung (Écart type) ist ein Maß für die Streubreite der Werte eines Merkmals rund um dessen Mittelwert. Vereinfacht gesagt, ist die Standardabweichung die durchschnittliche Entfernung aller gemessenen Ausprägungen eines Merkmals vom Durchschnitt.";
+"required for" = "Néideg fir eng Moyenne am Fach vun...";
+"in term" = "%@ am Trimester";
+"in semester" = "%@ am Semester";
+"in exam" = "%@ am Examen";
+"in year" = "%@ am Joer";
+"in test" = "%@ am Test";
+"required" = "Néideg Punkten";
+"required year info" = "Gitt d'Moyenne an (vu 60) déi Dir an der Joeresmoyenne vun dësem Fach wëllt hunn. Dier kritt ugewisen wéi vill Dir an der Trimestermoyenne braucht fir déi Moyenne ze kréien.";
+"required term info" = "Gitt d'Moyenne an (vu 60) déi Dir an der Trimestermoyenne vun dësem Fach wëllt hunn. Dier kritt ugewisen wéi vill Dir an der nächster Prüfung braucht fir déi Moyenne ze kréien.";
+"required combined info" = "Gitt d'Moyenne an (vu 60) déi Dir an dëser branche combinée wëllt hunn. Dier kritt ugewisen wéi vill Dir an dësem Fach braucht fir déi Moyenne ze kréien.";
+"influence header" = "Afloss ob d'Gesamtmoyenne";
+"influence" = "Afloss";
+"influence info" = "Gitt eng Unzuel vun Punkten an a gesitt ëm wéi vill déi Punkten an deem Fach är Gesamtmoyenne vum Trimester änneren.";
+"point" = "%@ Punkt";
+"points" = "%@ Punkten";
+"android message" = "D'App gett et elo och fir Android";
+"1. semester" = "1. Semester";
+"2. semester" = "2. Semester";
+"semester" = "Semester";
+"exam" = "Premiersexamen";
+"none" = "Guer keng";
+"admitted" = "Admis";
+"adjournment" = "Ajournement";
+"refused" = "Refusé";
+"needed for" = "Néideg am Fach fir %@";
+"Other" = "Sonstiges";
+"technique message" = "D'App gett et elo och fir den Enseignement Secondaire Technique";
+"facebook message" = "Like eis Facebook Säit wann d'App dir gefällt!";
+
+

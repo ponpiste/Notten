@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>coefficientSum</key>
+		<integer>37</integer>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>ECOGE</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Économie de gestion</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>ECOPO</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Économie politique</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>COPRH</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Communication professionnelle</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>code</key>
+		<string>ORGES</string>
+		<key>coefficient</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Organisation et gestion</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>code</key>
+		<string>COMPT</string>
+		<key>coefficient</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Comptabilité</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>code</key>
+		<string>TINCO</string>
+		<key>coefficient</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Technologies</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>code</key>
+		<string>GESPJ</string>
+		<key>coefficient</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Gestion de projet</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>FRANC</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Français</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>code</key>
+		<string>ALLEM</string>
+		<key>coefficient</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Allemand</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>code</key>
+		<string>ANGLA</string>
+		<key>coefficient</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Anglais</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>code</key>
+		<string>CONMO</string>
+		<key>coefficient</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Connaissance du monde</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>code</key>
+		<string>EDUPH</string>
+		<key>coefficient</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Éducation physique</string>
+	</dict>
+</array>
+</plist>

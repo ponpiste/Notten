@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>coefficientSum</key>
+		<integer>24</integer>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>CONLA</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Connaissances de langues</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>CONCG</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Connaissance de culture générale</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>COSC1</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Connaissances scientifiques</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>COSC2</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Connaissances scientifiques 2</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>SCMED</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Sciences médicales</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<true/>
+		<key>code</key>
+		<string>TRAEN</string>
+		<key>coefficient</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Travail d&apos;envergure</string>
+	</dict>
+</array>
+</plist>

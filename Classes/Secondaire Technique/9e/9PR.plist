@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>2</real>
+		<key>name</key>
+		<string>Allemand / Luxembourgeois</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>2</real>
+		<key>name</key>
+		<string>Français</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>4</real>
+		<key>name</key>
+		<string>Mathématiques</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>3</real>
+		<key>name</key>
+		<string>Sciences naturelles</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>3</real>
+		<key>name</key>
+		<string>Sciences sociales</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>1</real>
+		<key>name</key>
+		<string>Informatique</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>1</real>
+		<key>name</key>
+		<string>Dessin / Techniques</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>4</real>
+		<key>name</key>
+		<string>Options</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>4</real>
+		<key>name</key>
+		<string>Ateliers</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>2</real>
+		<key>name</key>
+		<string>Éducation physique</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>2</real>
+		<key>name</key>
+		<string>Tutorat</string>
+	</dict>
+	<dict>
+		<key>bf</key>
+		<false/>
+		<key>coefficient</key>
+		<real>2</real>
+		<key>name</key>
+		<string>Vie et société</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Notten
+
+  Created by Sacha Bartholmé on 4/10/16.
+  Copyright © 2016 Sacha Bartholmé. All rights reserved.
+*/
+
+"marks" = "Grades";
+"reset" =  "Reset";
+"cancel" = "Cancel";
+"coefficient" = "Coefficient";
+"main subject" = "Main subject";
+"yes" = "Yes";
+"no" = "No";
+"no need" = "No need";
+"success" = "Success";
+"stay down" = "Stay down";
+"retake exam" = "Retake exam";
+"1. term" = "1. Term";
+"2. term" = "2. Term";
+"3. term" = "3. Term";
+"term" = "Term";
+"schoolyear" = "Year";
+"no class" = "No class";
+"ponderation" = "Ponderation";
+"trick" = "Trick";
+"longPress" = "You can add grades more quickly by a long press on the name of a subject.";
+"median" = "Median";
+"median info" = "In statistics and probability theory, a median is the value separating the higher half of a data sample, a population, or a probability distribution, from the lower half.";
+"variance" = "Variance";
+"variance info" = "In probability theory and statistics, variance is the expectation of the squared deviation of a random variable from its mean, and it informally measures how far a set of (random) numbers are spread out from their mean.";
+"standard deviation" = "Standard deviation";
+"standard deviation info" = "In statistics, the standard deviation (SD, also represented by the Greek letter sigma σ or the Latin letter s) is a measure that is used to quantify the amount of variation or dispersion of a set of data values.";
+"required for" = "Required in this subject for...";
+"in term" = "%@ in term";
+"in semester" = "%@ in semester";
+"in exam" = "%@ in exam";
+"in year" = "%@ in year";
+"in test" = "%@ in test";
+"required" = "Required";
+"required year info" = "Enter the year average you want to get in this subject. You will get the minimum term average required in this subject.";
+"required term info" = "Enter the term average you want to get in this subject. You will get the minimum amout of points required for the next test.";
+"required combined info" = "Enter the average you want to get in this combined subject. You will get the minimum amout of points required for the term average of this subject.";
+"influence header" = "Influence on general average";
+"influence" = "Influence";
+"influence info" = "Enter an amout of points and see how much those points in this subject change your general term average.";
+"point" = "%@ point";
+"points" = "%@ points";
+"android message" = "The App is now also available for Android";
+"1. semester" = "1. Semester";
+"2. semester" = "2. Semester";
+"semester" = "Semester";
+"exam" = "Exam";
+"none" = "None";
+"admitted" = "Admitted";
+"adjournment" = "Adjournment";
+"refused" = "Refused";
+"needed for" = "Needed for %@";
+"Other" = "Other";
+"technique message" = "Now also available for the enseignement secondaire technique";
+"facebook message" = "Like our facebook page!";
+
