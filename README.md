@@ -18,7 +18,7 @@ Notten is a very powerful mathematical item that helps Luxembourgish students de
 * Export function
 
 Available in English, French and Luxembourgish.
-
+ 
 
 ## A few screenshots
 
