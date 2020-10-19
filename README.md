@@ -26,4 +26,5 @@ Available in English, French and Luxembourgish.
 
 ![design1](design1.jpg "design1")
 ![design2](design2.jpg "design2")
+&nbsp;&nbsp;
 ![design3](design3.jpg "design3")
