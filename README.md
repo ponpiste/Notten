@@ -23,3 +23,7 @@ Available in English, French and Luxembourgish.
 ## A few screenshots
 
 ![screenshot1](screenshot1.jpg "screenshot1") &nbsp;&nbsp; ![screenshot2](screenshot2.jpg "screenshot2") &nbsp;&nbsp; ![first](first.jpg "first")
+
+![design1](design1.jpg "design1")
+![design2](design2.jpg "design2")
+![design3](design3.jpg "design3")
